@@ -37,7 +37,7 @@
 ![Gitbash](images/gitbash.png)
 <br/><br/>
 
-#### 6. git Bash(terminal)에서 명어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다. (**아래 순서대로 진행한 후 퀴즈 답안을 제출할 때까지 Git Bash를 끄지말고 진행해주세요! 중간에 끄시면 6번의 순서를 다시 진행하셔야 합니다.)
+#### 6. git Bash(terminal)에서 명령어를 이용해 바탕화면에 폴더를 생성하고 폴더에 파일을 clone합니다. (**아래 순서대로 진행한 후 퀴즈 답안을 제출할 때까지 Git Bash를 끄지말고 진행해주세요! 중간에 끄시면 6번의 순서를 다시 진행하셔야 합니다.)
 
 - 첫번째, 바탕화면으로 이동하기 (cd 이동하고싶은폴더명)
      <blockquote> cd desktop </blockquote>
